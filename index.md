@@ -18,7 +18,7 @@ Education
 **Project**
 -------------
 
-    *Hospital Management System*
+   Hospital Management System
 
 2016-2018
 :   **Intermediate,MPC**; Sri Chaitanya Junior College (Guntur)
@@ -32,12 +32,12 @@ Technical Skills:
 
 
 **Programming Languages**
-:   **C-language** 
+   **C-language** 
 
 
-:   **HTML** 
+   **HTML** 
 
-:   Basic knowledge of **Python**,  **C++**
+   Basic knowledge of **Python**,  **C++**
 
 [ref]: https://github.com/githubuser/superlongprojectname
   
