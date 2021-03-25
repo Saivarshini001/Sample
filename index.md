@@ -3,7 +3,7 @@ Sai Varshini
 
 -------------------     ----------------------------
 * email                      sairam.varshi963@gmail.com
-* Emp id                     Y18IT076
+* Reg id                     Y18IT076
 * Phone No                   9876543210
 * LinkedIn                   [LinkedIn](https://www.linkedin.com/in/sai-varshini-papineni-09bb3a1b4/)
 -------------------     ----------------------------
@@ -52,7 +52,7 @@ Technical Skills:
    * Telugu
     
 
-##**Volunteer Experince**
+## **Volunteer Experince**
    * ASV in Make A Difference(2019-2020)
    * Mentor in Make A Difference(2020-2021)
 
