@@ -1,5 +1,5 @@
-Sai Varshini
-============
+Sai Varshini Papineni
+======================
 
 -------------------     ----------------------------
 * email                      sairam.varshi963@gmail.com
@@ -42,12 +42,12 @@ Technical Skills:
 [ref]: https://github.com/githubuser/superlongprojectname
   
   
-**Internships**
+### **Internships**
   * ISP-18 in Internshala
   * HR intern at Tirrup
 
 
-**Human Languages**
+### **Human Languages**
    * English 
    * Telugu
     
