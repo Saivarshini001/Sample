@@ -2,10 +2,10 @@ Sai Varshini Papineni
 ======================
 
 -------------------     ----------------------------
-* email                      sairam.varshi963@gmail.com
-* Reg id                     Y18IT076
-* Phone No                   9876543210
-* LinkedIn                   [LinkedIn](https://www.linkedin.com/in/sai-varshini-papineni-09bb3a1b4/)
+* **email**                      sairam.varshi963@gmail.com
+* **Reg id**                     Y18IT076
+* **Phone No**                   9876543210
+* **LinkedIn**                   [LinkedIn](https://www.linkedin.com/in/sai-varshini-papineni-09bb3a1b4/)
 -------------------     ----------------------------
 
 Education
