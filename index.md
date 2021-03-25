@@ -43,14 +43,13 @@ Technical Skills:
   
   
 **Internships**
-ISP-18 in Internshala
-HR intern at Tirrup
+  * ISP-18 in Internshala
+  * HR intern at Tirrup
 
 
 **Human Languages**
-
-     * English 
-     * Telugu
+   * English 
+   * Telugu
     
 
 **Volunteer Experince**
