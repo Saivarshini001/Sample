@@ -14,12 +14,16 @@ Education
 2018-2022 (expected)
 :   **BTech, Information Technology**; RVR & JC COLLEGE OF ENGINEERING (Guntur)
 
-    * SMART SYSTEMS using IOT*
+    
+**Project**
+-------------
+
+    *Hospital Management System*
 
 2016-2018
 :   **Intermediate,MPC**; Sri Chaitanya Junior College (Guntur)
 
-    *Minor: Awesomeology*
+   
 
 
 Technical Skills: 
