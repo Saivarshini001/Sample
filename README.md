@@ -23,8 +23,4 @@ __Y18IT076__
 *HELLO** WORLD** WELCOME*
 
 ![GitHub Logo](/images/logo.png)
-![Flowers](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK1hEkVrWlidvK07nNV9xUz6bKkPu1DkGcEA&usqp=CAU)
-
-
-https://www.linkedin.com/in/sai-varshini-papineni-09bb3a1b4/ - linkedin!
-[GitHub](http://github.com)
+![Flowers](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWEXv7sULeiMMCggUsUGabz6z86_tDu--wZw&usqp=CAU)
