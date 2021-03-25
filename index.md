@@ -52,7 +52,7 @@ Technical Skills:
    * Telugu
     
 
-**Volunteer Experince**
+##**Volunteer Experince**
    * ASV in Make A Difference(2019-2020)
    * Mentor in Make A Difference(2020-2021)
 
