@@ -24,3 +24,7 @@ __Y18IT076__
 
 ![GitHub Logo](/images/logo.png)
 ![Flowers](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWEXv7sULeiMMCggUsUGabz6z86_tDu--wZw&usqp=CAU)
+
+
+https://www.linkedin.com/in/sai-varshini-papineni-09bb3a1b4/ - linkedin
+[Github](https://www.linkedin.com/in/sai-varshini-papineni-09bb3a1b4/)
