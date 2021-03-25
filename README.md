@@ -28,3 +28,9 @@ __Y18IT076__
 
 https://www.linkedin.com/in/sai-varshini-papineni-09bb3a1b4/ - linkedin
 [Github](https://www.linkedin.com)
+
+
+As Kanye West said:
+
+>We're lying the future so
+>the present is our past.
