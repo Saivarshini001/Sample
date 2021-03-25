@@ -36,7 +36,11 @@ Technical Skills:
 :   Basic knowledge of **Python**,  **C++**
 
 [ref]: https://github.com/githubuser/superlongprojectname
-
+  
+  
+**Internships**
+ISP-18 in Internshala
+HR intern at Tirrup
 
 
 **Human Languages**
@@ -45,6 +49,9 @@ Technical Skills:
      * Telugu
     
 
-* Random tidbit
+**Volunteer Experince**
+   * ASV in Make A Difference(2019-2020)
+   * Mentor in Make A Difference(2020-2021)
 
-* Other sort of impressive-sounding thing you did
+
+
