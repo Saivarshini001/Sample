@@ -27,4 +27,4 @@ __Y18IT076__
 
 
 https://www.linkedin.com/in/sai-varshini-papineni-09bb3a1b4/ - linkedin!
-[GitHub](https://www.linkedin.com/in/sai-varshini-papineni-09bb3a1b4/)
+[GitHub](http://github.com)
